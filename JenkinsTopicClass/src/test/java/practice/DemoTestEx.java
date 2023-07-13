@@ -7,5 +7,6 @@ public class DemoTestEx {
 	@Test
 	public void m1() {
 		System.out.println("Jenkis is a tool");
+		System.out.println("2nd push");
 	}
 }
